@@ -1,0 +1,6 @@
+{
+  "name": "HelioBoost G99 — مسرع ألعاب هيلو G99",
+  "description": "مسرع ألعاب احترافي لمعالج MediaTek Helio G99 مع أوضاع الأداء العالي والمحترف وأدوات تقليل الدقة للأجهزة الضعيفة ولوحة سحب جانبية بأسلوب RedMagic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
